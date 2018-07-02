@@ -7,6 +7,7 @@ Velociti Entertainment (VENT or VE) is an Electronics Company & a PC Gaming Comm
 - Website: [URL]www.velocitientertainment.com/[/URL]
 - Forums: [URL]www.velocitientertainment.com/forum[/URL]
 - Servers: [URL]www.velocitientertainment.com/servers/[/URL]
+- Donate: [URL]http://www.velocitientertainment.com/donations/[/URL]
 - Steam Group: [URL]http://steamcommunity.com/groups/velocitientertainment[/URL]
 - Facebook: [URL]www.facebook.com/VelocitiEntertainment[/URL]
 - Twitter: [URL]www.twitter.com/VelocitiEnt[/URL]
@@ -15,9 +16,6 @@ Velociti Entertainment (VENT or VE) is an Electronics Company & a PC Gaming Comm
 - Ebay: [URL]www.ebay.com/usr/humantree92[/URL]
 - Kik: #vegaming
 
-[h1]Donate to Help Us Grow & Become a VIP/Donator[/h1]
-- Donate: [URL]http://www.velocitientertainment.com/donations/[/URL]
-
 [h1]My PC Specs & Other Info[/h1]
 - OBS Studio (Broadcasting Software)
 - Turtle Beach X12 (Headset)
@@ -25,7 +23,7 @@ Velociti Entertainment (VENT or VE) is an Electronics Company & a PC Gaming Comm
 - Logitech C920 (Webcam)
 - Corsair M65 Pro RGB (Mouse)
 - Corsair K95 Vengance RGB (Keyboard)
-- Toshiba 55in (Main), Dell 22in (2nd), & Acer 17in (3rd)
+- Toshiba 55in (Main), Dell 22in (2nd), & Dell 22in (3rd)
 - Alienware X51 (GeForce GTX 1060 FE, Intel Core I7-2600 3.40GHz,  8GB Ram, Windows 10, 4TB Internal, & 2TB External.)
 
 [b]© 2011-2018 Velociti Entertainment[/b]
