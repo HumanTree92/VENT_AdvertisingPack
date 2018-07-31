@@ -32,31 +32,31 @@ the Thumbnail Images provided. As they look better then the regular YouTube Thum
 Thumbnail Image makes the video stand out.
 
 # How to get Adobe Programs FREE:
-1st - You want to go & download the Adobe program you would like from http://www.adobe.com/creativecloud/catalog/desktop.html
-2nd - Make sure you click on Download Trail
-3rd - If you haven't already installed Adove Creative Cloud this will be included in all Adobe Downloads
-4th - After Adobe Creative Cloud & the Adobe Program you want for FREE is installed you will need to unzip the amtemu.v0.9.2-painter.zip
-5th - Once you have unzipped the zip file you should find a program called amtemu.v0.9.2-painter.exe
-6th - Run amtemu.v0.9.2-painter.exe 
-7th - Once the program is running click on the dropdown box & find the Adobe Program you installed Example: Adobe Photoshop CC 2017
-8th - Once you have selected your Program Click Install
-9th - Go to the location where your Adobe Program Installed at (Example: Program Files > Adobe > Adobe Photoshop CC 2017)
-10th - Click on the amtlib.dll & click open
-11th - Thats it. Now your have Adobe Photoshop CC 2017 100% FREE 
+1) You want to go & download the Adobe program you would like from http://www.adobe.com/creativecloud/catalog/desktop.html
+2) Make sure you click on Download Trail
+3) If you haven't already installed Adove Creative Cloud this will be included in all Adobe Downloads
+4) After Adobe Creative Cloud & the Adobe Program you want for FREE is installed you will need to unzip the amtemu.v0.9.2-painter.zip
+5) Once you have unzipped the zip file you should find a program called amtemu.v0.9.2-painter.exe
+6) Run amtemu.v0.9.2-painter.exe 
+7) Once the program is running click on the dropdown box & find the Adobe Program you installed Example: Adobe Photoshop CC 2017
+8) Once you have selected your Program Click Install
+9) Go to the location where your Adobe Program Installed at (Example: Program Files > Adobe > Adobe Photoshop CC 2017)
+10) Click on the amtlib.dll & click open
+11) Thats it. Now your have Adobe Photoshop CC 2017 100% FREE 
 (If this didn't work for you then you must have done something wrong in your computer when installing the Adobe Program)
 
 # How to use Filmora without watermarks FREE:
-1st - You want to go & download the Filmore Program from https://filmora.wondershare.com/ Make sure you click on Try it Free
-2nd - Once the program is installed you will want to run the program
-3rd - Do whatever it is that you want to do
-4th - Disconnect your computer from the internet. Your Computer can NOT and i mean NOT be connected to the internet or else this WON'T WORK!!!
-5th - Once you are done editing the video your gonna wanna click on Export > Create Video
-6th - Edit what you want then click on Export
-7th - It will ask you if you want Buy but instead your going to click on Register
-8th - You will want to copy one of the Keys down below. Some keys might not work but 1 of them will
-9th - Once you have filled in the information click on Register & if it worked then it should say Wondershare Filmora has been registered
-10th - Next click on Ok & it should start exporting the video WITHOUT watermarks
-11th - Thats it. Remember that everytime you start Filmora while connected to the internet it will tell you that your Email has been Banned
+1) You want to go & download the Filmore Program from https://filmora.wondershare.com/ Make sure you click on Try it Free
+2) Once the program is installed you will want to run the program
+3) Do whatever it is that you want to do
+4) Disconnect your computer from the internet. Your Computer can NOT and i mean NOT be connected to the internet or else this WON'T WORK!!!
+5) Once you are done editing the video your gonna wanna click on Export > Create Video
+6) Edit what you want then click on Export
+7) It will ask you if you want Buy but instead your going to click on Register
+8) You will want to copy one of the Keys down below. Some keys might not work but 1 of them will
+9) Once you have filled in the information click on Register & if it worked then it should say Wondershare Filmora has been registered
+10) Next click on Ok & it should start exporting the video WITHOUT watermarks
+11) Thats it. Remember that everytime you start Filmora while connected to the internet it will tell you that your Email has been Banned
 In this case don't worry about it. Just everytime you want to create a Video without Watermarks you will need to disconnect yourself from the internet
 & import the Email & Registration Code from Below.
 
