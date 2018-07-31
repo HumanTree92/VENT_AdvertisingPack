@@ -1,23 +1,21 @@
 # VENT_AdvertisingPack
 This is a Advertising Pack for Velociti Entertainment
 
----
-
 # Steam Bio Info:
-1. Open the Steam Bio Info.txt
-2. Then go to your Steam Profile
-3. Then go to Edit Profile
-4. Copy all Info & paste that into your Summary
-5. Next edit the My PC Specs & Other Info to your liking
-6. Then Click Save Changes at the Bottom
+1) Open the Steam Bio Info.txt
+2) Then go to your Steam Profile
+3) Then go to Edit Profile
+4) Copy all Info & paste that into your Summary
+5) Next edit the My PC Specs & Other Info to your liking
+6) Then Click Save Changes at the Bottom
 
 # YouTube Info:
-1. Open the YouTube Info.txt
-2. Then go to your YouTube channel
-3. Then go to Video Manager > Channel > Upload Defaults
-4. Copy all Info & paste that into your Description
-5. Next edit the My PC Specs & Other Info to your liking
-6. Then Click Save at the Top Right
+1) Open the YouTube Info.txt
+2) Then go to your YouTube channel
+3) Then go to Video Manager > Channel > Upload Defaults
+4) Copy all Info & paste that into your Description
+5) Next edit the My PC Specs & Other Info to your liking
+6) Then Click Save at the Top Right
 
 # VENT Advertising:
 This is self Explanitory. If you would like to Advertise our Community on certain websites its best
@@ -62,29 +60,25 @@ Thumbnail Image makes the video stand out.
 In this case don't worry about it. Just everytime you want to create a Video without Watermarks you will need to disconnect yourself from the internet
 & import the Email & Registration Code from Below.
 
-
 # Wondershare Video Editor Keys
+* Licensed e-mail: c2941647@drdrb.com
+* Registration code: 10403029CF3644154841651AF141E800
 
-Licensed e-mail: c2941647@drdrb.com
-Registration code: 10403029CF3644154841651AF141E800
-
-Licensed e-mail: c2941690@drdrb.com
-Registration code: 510B3C20A9E54E0FF1D2FC28BAD1220E
+* Licensed e-mail: c2941690@drdrb.com
+* Registration code: 510B3C20A9E54E0FF1D2FC28BAD1220E
 
 vvvvTHIS KEY WORKS FOR ME ALL THE TIMEvvvv
-Licensed e-mail: c2942163@drdrb.com
-Registration code: 35706E040C63EE00E377911BB9A3B301
+* Licensed e-mail: c2942163@drdrb.com
+* Registration code: 35706E040C63EE00E377911BB9A3B301
 
-Licensed e-mail: c2942269@drdrb.com
-Registration code: 00289623F7B3B81E14AEB526144B6D08
+* Licensed e-mail: c2942269@drdrb.com
+* Registration code: 00289623F7B3B81E14AEB526144B6D08
 
-Licensed e-mail: c2943267@drdrb.com
-Registration code: D772BE0279AFE60AF0E1D2109CA89A19
+* Licensed e-mail: c2943267@drdrb.com
+* Registration code: D772BE0279AFE60AF0E1D2109CA89A19
 
-Licensed e-mail: c2943297@drdrb.com
-Registration code: FB9694298253B51545E70D22B3033808
-
----
+* Licensed e-mail: c2943297@drdrb.com
+* Registration code: FB9694298253B51545E70D22B3033808
 
 # Visit Velociti Entertainment
 * [TS3](http://www.velocitientertainment.com/ts3/)
