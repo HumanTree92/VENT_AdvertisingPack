@@ -1,5 +1,5 @@
-# VENT_AdvertisingPack
-This is a Advertising Pack for Velociti Entertainment
+# About VENT_AdvertisingPack:
+This is a Advertising Pack for Velociti Entertainment.
 
 # Steam Bio Info:
 1) Open the Steam Bio Info.txt
@@ -34,7 +34,7 @@ Thumbnail Image makes the video stand out.
 # How to get Adobe Programs FREE:
 1) You want to go & download the Adobe program you would like from http://www.adobe.com/creativecloud/catalog/desktop.html
 2) Make sure you click on Download Trail
-3) If you haven't already installed Adove Creative Cloud this will be included in all Adobe Downloads
+3) If you haven't already installed Adobe Creative Cloud this will be included in all Adobe Downloads
 4) After Adobe Creative Cloud & the Adobe Program you want for FREE is installed you will need to unzip the amtemu.v0.9.2-painter.zip
 5) Once you have unzipped the zip file you should find a program called amtemu.v0.9.2-painter.exe
 6) Run amtemu.v0.9.2-painter.exe 
@@ -60,27 +60,22 @@ Thumbnail Image makes the video stand out.
 In this case don't worry about it. Just everytime you want to create a Video without Watermarks you will need to disconnect yourself from the internet
 & import the Email & Registration Code from Below.
 
-# Wondershare Video Editor Keys
+# Wondershare Video Editor Keys:
 * Licensed e-mail: c2941647@drdrb.com
   * Registration code: 10403029CF3644154841651AF141E800
-
 * Licensed e-mail: c2941690@drdrb.com
   * Registration code: 510B3C20A9E54E0FF1D2FC28BAD1220E
-
 vvvvTHIS KEY WORKS FOR ME ALL THE TIMEvvvv
 * Licensed e-mail: c2942163@drdrb.com
   * Registration code: 35706E040C63EE00E377911BB9A3B301
-
 * Licensed e-mail: c2942269@drdrb.com
   * Registration code: 00289623F7B3B81E14AEB526144B6D08
-
 * Licensed e-mail: c2943267@drdrb.com
   * Registration code: D772BE0279AFE60AF0E1D2109CA89A19
-
 * Licensed e-mail: c2943297@drdrb.com
   * Registration code: FB9694298253B51545E70D22B3033808
 
-# Visit Velociti Entertainment
+# Visit Velociti Entertainment:
 * [TS3](http://www.velocitientertainment.com/ts3/)
 * [Discord](https://discord.gg/azEY2kU)
 * [Website](www.velocitientertainment.com/)
@@ -94,3 +89,15 @@ vvvvTHIS KEY WORKS FOR ME ALL THE TIMEvvvv
 * [Twitch](www.twitch.tv/humantree92)
 * [eBay](www.ebay.com/usr/humantree92)
 * Kik #vegaming
+
+# Legal
+### License
+VENT_AdvertisingPack - Advertising Pack for Velociti Entertainment.
+
+Copyright (C) 2011-2018 Velociti Entertainment
+
+This program Is free software: you can redistribute it And/Or modify it under the terms Of the GNU General Public License As published by the Free Software Foundation, either version 3 Of the License, Or (at your option) any later version.
+
+This program Is distributed In the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty Of MERCHANTABILITY Or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License For more details.
+
+You should have received a copy Of the GNU General Public License along with this program. If Not, see http://www.gnu.org/licenses/.
