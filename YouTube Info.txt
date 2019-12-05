@@ -4,23 +4,21 @@ Velociti Entertainment (VENT or VE) is an Electronics Company & a PC Gaming Comm
 
 ▼Visit Velociti Entertainment▼
 - TS3: ts3.velocitientertainment.com
-- Discord: www.discord.gg/azEY2kU
-- Website: www.velocitientertainment.com/
-- Forums: www.velocitientertainment.com/forum
-- About Us: www.velocitientertainment.com/pc-gaming/
-- Donate: www.velocitientertainment.com/donations/
-- Steam Group: www.steamcommunity.com/groups/velocitientertainment
-- Facebook: www.facebook.com/VelocitiEntertainment
-- Twitter: www.twitter.com/VelocitiEnt
-- YouTube: www.youtube.com/user/HumanTree92
-- Twitch: www.twitch.tv/humantree92
-- Ebay: www.ebay.com/usr/humantree92
-- Kik: #vegaming
+- Discord: http://discord.velocitientertainment.com
+- Website: http://velocitientertainment.com/
+- Forums: http://velocitientertainment.com/forum
+- About Us: http://velocitientertainment.com/pc-gaming/
+- Donate: http://velocitientertainment.com/donations/
+- Steam Group: http://steamcommunity.com/groups/velocitientertainment
+- Facebook: http://facebook.com/VelocitiEntertainment
+- Twitter: http://twitter.com/VelocitiEnt
+- YouTube: http://youtube.com/user/HumanTree92
+- Twitch: http://twitch.tv/humantree92
+- Ebay: http://ebay.com/usr/humantree92
 
 ▼My PC Specs & Other Info▼
-- OBS Studio (Broadcasting Software)
-- Turtle Beach X12 (Headset)
-- Logitech G920 (Racing Wheel W/Shifter)
+- OBS (Broadcasting Software)
+- SteelSeries Arctis 7 (Headset)
 - Logitech C920 (Webcam)
 - Corsair M65 Pro RGB (Mouse)
 - Corsair K95 Vengance RGB (Keyboard)

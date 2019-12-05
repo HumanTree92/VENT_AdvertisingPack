@@ -77,7 +77,7 @@ vvvvTHIS KEY WORKS FOR ME ALL THE TIMEvvvv
 
 # Visit Velociti Entertainment:
 * [TS3](http://www.velocitientertainment.com/ts3/)
-* [Discord](https://discord.gg/azEY2kU)
+* [Discord](http://discord.velocitientertainment.com)
 * [Website](www.velocitientertainment.com/)
 * [Forums](www.velocitientertainment.com/forum)
 * [About Us](http://www.velocitientertainment.com/pc-gaming/)
