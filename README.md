@@ -76,25 +76,24 @@ vvvvTHIS KEY WORKS FOR ME ALL THE TIMEvvvv
   * Registration code: FB9694298253B51545E70D22B3033808
 
 # Visit Velociti Entertainment:
-* [TS3](http://www.velocitientertainment.com/ts3/)
+* TS3 - ts3.velocitientertainment.com
 * [Discord](http://discord.velocitientertainment.com)
-* [Website](www.velocitientertainment.com/)
-* [Forums](www.velocitientertainment.com/forum)
-* [About Us](http://www.velocitientertainment.com/pc-gaming/)
-* [Donate](http://www.velocitientertainment.com/donations/)
+* [Website](http://velocitientertainment.com/)
+* [Forums](http://velocitientertainment.com/forum)
+* [About Us](http://velocitientertainment.com/pc-gaming/)
+* [Donate](http://velocitientertainment.com/donations/)
 * [Steam Group](http://steamcommunity.com/groups/velocitientertainment)
-* [Facebook](www.facebook.com/VelocitiEntertainment)
-* [Twitter](www.twitter.com/VelocitiEnt)
-* [YouTube](www.youtube.com/user/HumanTree92)
-* [Twitch](www.twitch.tv/humantree92)
-* [eBay](www.ebay.com/usr/humantree92)
-* Kik #vegaming
+* [Facebook](http://facebook.com/VelocitiEntertainment)
+* [Twitter](http://twitter.com/VelocitiEnt)
+* [YouTube](http://youtube.com/user/HumanTree92)
+* [Twitch](http://twitch.tv/humantree92)
+* [eBay](http://ebay.com/usr/humantree92)
 
 # Legal
 ### License
 VENT_AdvertisingPack - Advertising Pack for Velociti Entertainment.
 
-Copyright (C) 2011-2019 Velociti Entertainment
+Copyright (C) 2011-2020 Velociti Entertainment
 
 This program Is free software: you can redistribute it And/Or modify it under the terms Of the GNU General Public License As published by the Free Software Foundation, either version 3 Of the License, Or (at your option) any later version.
 
