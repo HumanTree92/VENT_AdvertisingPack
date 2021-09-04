@@ -76,7 +76,6 @@ vvvvTHIS KEY WORKS FOR ME ALL THE TIMEvvvv
   * Registration code: FB9694298253B51545E70D22B3033808
 
 # Visit Velociti Entertainment:
-* TS3 - ts3.velocitientertainment.com
 * [Discord](http://discord.velocitientertainment.com)
 * [Website](http://velocitientertainment.com/)
 * [Forums](http://velocitientertainment.com/forum)
@@ -93,7 +92,7 @@ vvvvTHIS KEY WORKS FOR ME ALL THE TIMEvvvv
 ### License
 VENT_AdvertisingPack - Advertising Pack for Velociti Entertainment.
 
-Copyright (C) 2011-2020 Velociti Entertainment
+Copyright (C) 2011-2021 Velociti Entertainment
 
 This program Is free software: you can redistribute it And/Or modify it under the terms Of the GNU General Public License As published by the Free Software Foundation, either version 3 Of the License, Or (at your option) any later version.
 
