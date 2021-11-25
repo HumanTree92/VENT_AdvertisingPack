@@ -76,17 +76,18 @@ vvvvTHIS KEY WORKS FOR ME ALL THE TIMEvvvv
   * Registration code: FB9694298253B51545E70D22B3033808
 
 # Visit Velociti Entertainment:
-* [Discord](http://discord.velocitientertainment.com)
-* [Website](http://velocitientertainment.com/)
-* [Forums](http://velocitientertainment.com/forum)
-* [About Us](http://velocitientertainment.com/pc-gaming/)
-* [Donate](http://velocitientertainment.com/donations/)
-* [Steam Group](http://steamcommunity.com/groups/velocitientertainment)
-* [Facebook](http://facebook.com/VelocitiEntertainment)
-* [Twitter](http://twitter.com/VelocitiEnt)
-* [YouTube](http://youtube.com/user/HumanTree92)
-* [Twitch](http://twitch.tv/humantree92)
-* [eBay](http://ebay.com/usr/humantree92)
+* [Discord]( http://discord.velocitientertainment.com )
+* [Website]( http://velocitientertainment.com/ )
+* [Forums]( http://velocitientertainment.com/forum )
+* [About Us]( http://velocitientertainment.com/pc-gaming/ )
+* [Donate]( http://velocitientertainment.com/donations/ )
+* [Patreon] ( https://www.patreon.com/VelocitiEntertainment?fan_landing=true )
+* [Steam Group]( http://steamcommunity.com/groups/velocitientertainment )
+* [Facebook]( http://facebook.com/VelocitiEntertainment )
+* [Twitter]( http://twitter.com/VelocitiEnt )
+* [YouTube]( http://youtube.com/user/HumanTree92 )
+* [Twitch]( http://twitch.tv/humantree92 )
+* [GitHub]( https://github.com/HumanTree92 )
 
 # Legal
 ### License
