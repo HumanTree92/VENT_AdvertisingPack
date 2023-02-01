@@ -27,7 +27,6 @@ Use the Intro Video on any video that you wish to use.
 # Visit Velociti Entertainment:
 * [Discord]( https://discord.velocitientertainment.com )
 * [Website]( https://velocitientertainment.com )
-* [Forums]( https://velocitientertainment.com/forum )
 * [About Us]( https://velocitientertainment.com/pc-gaming )
 * [Donate]( https://velocitientertainment.com/donations )
 * [Patreon]( https://www.patreon.com/VelocitiEntertainment?fan_landing=true )
@@ -42,7 +41,7 @@ Use the Intro Video on any video that you wish to use.
 ### License
 VENT_AdvertisingPack - Advertising Pack for Velociti Entertainment.
 
-Copyright (C) 2022 Velociti Entertainment
+Copyright (C) 2023 Velociti Entertainment
 
 This program Is free software: you can redistribute it And/Or modify it under the terms Of the GNU General Public License As published by the Free Software Foundation, either version 3 Of the License, Or (at your option) any later version.
 
