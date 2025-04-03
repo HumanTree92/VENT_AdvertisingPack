@@ -26,7 +26,7 @@ Use the Intro Video on any video that you wish to use.
 
 # Visit Velociti Entertainment:
 * [Discord]( https://discord.velocitientertainment.com )
-* [Website]( https://velocitientertainment.com )
+* [Website]( https://www.velocitientertainment.com )
 * [Donate]( https://velocitientertainment.weebly.com/donations.html )
 * [Patreon]( https://www.patreon.com/VelocitiEntertainment?fan_landing=true )
 * [Steam Group]( https://steamcommunity.com/groups/velocitientertainment )

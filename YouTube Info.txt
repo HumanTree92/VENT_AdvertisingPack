@@ -4,7 +4,7 @@ Velociti Entertainment (VENT or VE) is a PC Gaming Community. We keep everything
 
 ▼ Visit Velociti Entertainment ▼
 - Discord: https://discord.velocitientertainment.com
-- Website: https://velocitientertainment.com
+- Website: https://www.velocitientertainment.com
 - Donate: https://velocitientertainment.weebly.com/donations.html
 - Patreon: https://www.patreon.com/VelocitiEntertainment?fan_landing=true
 - Steam Group: https://steamcommunity.com/groups/velocitientertainment
@@ -15,13 +15,22 @@ Velociti Entertainment (VENT or VE) is a PC Gaming Community. We keep everything
 - GitHub: https://github.com/HumanTree92
 
 ▼ My PC Specs & Other Info ▼
-- OBS (Broadcasting Software)
 - SteelSeries Arctis 7 (Headset)
+- Logitech Z407 (Speakers)
 - Logitech C920 (Webcam)
 - Corsair Dark Core RGB Pro (Mouse)
+- Corsair MM800 RGB Polaris (Mousepad)
 - Corsair K100 RGB (Keyboard)
+- Corsair Icue Nexus (Keyboard Screen)
 - Samsung Odyssey G35T 32in (Main), Dell 22in (2nd), & Dell 22in (3rd)
-- Corsair 5000D Airflow (Asus Tuf RTX 4090 OC, Intel Core I9-14900k, 64GB Ram, Windows 11, 2TB M.2, & 8TB HDD)
+- Corsair 5000D Airflow (MSI Z790-A WIFI DDR5, Asus Tuf RTX 4090 OC, Intel Core I9-14900k, 64GB Ram, Windows 11, 2TB M.2, & 8TB HDD)
+- Secretlabs Titan Evo Black XL (Chair)
+- Thrustmaster T16000M FCS Flight Pack
+- CyberPower 900W (UPS)
+- Govee G1 Monitor Lights
+- Govee 16.4" Desk Lights
+- Anker Surge Protector
+- L Shaped Desk with 3 Drawers (Each Drawer as 5 Drawers)
 
 ▼ Intro Song ▼
 Song: Disfigure - Blank [NCS Release]
