@@ -27,20 +27,12 @@ Use the Intro Video on any video that you wish to use.
 # Visit Velociti Entertainment:
 * [Discord]( https://discord.velocitientertainment.com )
 * [Website]( https://www.velocitientertainment.com )
-* [Donate]( https://velocitientertainment.weebly.com/donations.html )
-* [Patreon]( https://www.patreon.com/VelocitiEntertainment?fan_landing=true )
-* [Steam Group]( https://steamcommunity.com/groups/velocitientertainment )
-* [Facebook]( https://facebook.com/VelocitiEntertainment )
-* [Twitter]( https://twitter.com/VelocitiEnt )
-* [YouTube]( https://youtube.com/user/HumanTree92 )
-* [Twitch]( https://twitch.tv/humantree92 )
-* [GitHub]( https://github.com/HumanTree92 )
 
 # Legal
 ### License
 VENT_AdvertisingPack - Advertising Pack for Velociti Entertainment.
 
-Copyright (C) 2025 Velociti Entertainment
+Copyright (C) 2026 Velociti Entertainment
 
 This program Is free software: you can redistribute it And/Or modify it under the terms Of the GNU General Public License As published by the Free Software Foundation, either version 3 Of the License, Or (at your option) any later version.
 
